@@ -1,0 +1,122 @@
+{
+    "190": {
+        "stock_id": "190",
+        "percent_change": "+107.438%",
+        "turnover": 67013000,
+        "date": "2021-01-18"
+    },
+    "3318": {
+        "stock_id": "3318",
+        "percent_change": "+62.651%",
+        "turnover": 30628000,
+        "date": "2021-01-18"
+    },
+    "353": {
+        "stock_id": "353",
+        "percent_change": "+44.737%",
+        "turnover": 815748,
+        "date": "2021-01-18"
+    },
+    "750": {
+        "stock_id": "750",
+        "percent_change": "+42.169%",
+        "turnover": 63783000,
+        "date": "2021-01-18"
+    },
+    "361": {
+        "stock_id": "361",
+        "percent_change": "+31.034%",
+        "turnover": 193100,
+        "date": "2021-01-18"
+    },
+    "339": {
+        "stock_id": "339",
+        "percent_change": "+30.952%",
+        "turnover": 362900,
+        "date": "2021-01-18"
+    },
+    "193": {
+        "stock_id": "193",
+        "percent_change": "+30.000%",
+        "turnover": 402256,
+        "date": "2021-01-18"
+    },
+    "3398": {
+        "stock_id": "3398",
+        "percent_change": "+30.000%",
+        "turnover": 2272000,
+        "date": "2021-01-18"
+    },
+    "63": {
+        "stock_id": "63",
+        "percent_change": "+28.571%",
+        "turnover": 828904,
+        "date": "2021-01-18"
+    },
+    "8341": {
+        "stock_id": "8341",
+        "percent_change": "+28.125%",
+        "turnover": 5711000,
+        "date": "2021-01-18"
+    },
+    "6666": {
+        "stock_id": "6666",
+        "percent_change": "+26.222%",
+        "turnover": 1820000000,
+        "date": "2021-01-18"
+    },
+    "911": {
+        "stock_id": "911",
+        "percent_change": "+25.000%",
+        "turnover": 2367000,
+        "date": "2021-01-18"
+    },
+    "3800": {
+        "stock_id": "3800",
+        "percent_change": "+23.188%",
+        "turnover": 3806000000,
+        "date": "2021-01-18"
+    },
+    "975": {
+        "stock_id": "975",
+        "percent_change": "+21.637%",
+        "turnover": 30073000,
+        "date": "2021-01-18"
+    },
+    "8106": {
+        "stock_id": "8106",
+        "percent_change": "+20.886%",
+        "turnover": 9000,
+        "date": "2021-01-18"
+    },
+    "8645": {
+        "stock_id": "8645",
+        "percent_change": "+20.833%",
+        "turnover": 349764,
+        "date": "2021-01-18"
+    },
+    "3700": {
+        "stock_id": "3700",
+        "percent_change": "+20.661%",
+        "turnover": 45549000,
+        "date": "2021-01-18"
+    },
+    "1940": {
+        "stock_id": "1940",
+        "percent_change": "+20.000%",
+        "turnover": 44458000,
+        "date": "2021-01-18"
+    },
+    "1478": {
+        "stock_id": "1478",
+        "percent_change": "+19.581%",
+        "turnover": 925118000,
+        "date": "2021-01-18"
+    },
+    "1799": {
+        "stock_id": "1799",
+        "percent_change": "+18.812%",
+        "turnover": 267914000,
+        "date": "2021-01-18"
+    }
+}
